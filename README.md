@@ -22,4 +22,5 @@ This project is licensed under the GNU General Public License v2.0 - see the [LI
 ---
 *Developed by a brave 5th grader. Driven by logic, math, and the spirit of a martyr's descendant.* 🛡️
 
-#. . . and thank you for using Mini-UIA! ^^
+# . . . thank you for using Mini-UIA! ^^
+# . . . and you can use free!
