@@ -1,2 +1,0 @@
-Folder 'headers' is Contains header files and standard libraries for kerne
-:3
