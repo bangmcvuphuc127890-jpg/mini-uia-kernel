@@ -20,7 +20,7 @@ I am **BangGaming8826**, a 5th-grade student from Vietnam 🇻🇳. I am a self-
 This project is licensed under the GNU General Public License v2.0 - see the [LICENSE](LICENSE) file for details.
 
 ---
-*Developed by a brave 5th grader. Driven by logic, math, and the spirit of a martyr's descendant.* 🛡️
+*Developed by a brave 5th grader.* 🛡️
 
 # . . . thank you for using Mini-UIA! ^^;
 # . . . everyone can help me; 
