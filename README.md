@@ -3,7 +3,7 @@
 Welcome to **Mini-UIA**, a free and independent operating system kernel built from scratch with passion and dedication.
 
 ## 🌟 About the Author
-I am **Bang** (BangGaming8826), a 5th-grade student from Vietnam 🇻🇳. I am a self-taught programmer with a deep love for C/C++ and Python. This project is a testament to my journey in exploring the vast world of OS/Kernel development and advanced mathematics.
+I am **(BangGaming8826)**, a 5th-grade student from Vietnam 🇻🇳. I am a self-taught programmer with a deep love for C/C++ and Python. This project is a testament to my journey in exploring the vast world of OS/Kernel development and advanced mathematics.
 
 ## 🚀 Key Features
 * **Custom Math Library (`uia_maths.h`):** Includes complex number support, Gamma functions (Lanczos approximation), and high-precision calculations;
