@@ -24,7 +24,7 @@
 	throwerr invalid_arg("Invalid Argument of input", sizeof(int), "invalid_arg");
 	throwerr logicerr("What logic is this?", 568, "logicerr");
 	throwerr converr("Convert to dataType not fault", 572, "converr");
-	throwerr fatal_unknown("Something went wrong but I don't know why!", sizeof(unsigned short), "unk");
+	throwerr fatal_unknown("Something went wrong but I don't know why!", sizeof(int), "unk");
 	throwerr file_err("Cannot interaction to file/folder!", 9009, "file_err");
 
 	namespace maths
