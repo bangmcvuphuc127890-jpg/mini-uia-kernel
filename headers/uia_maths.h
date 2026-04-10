@@ -421,7 +421,7 @@
 			}
 			fract<T> inverse() {
 				_numer = _deno;
-				if (_numer == 0) {throw divbyzero;}
+				if (_numer == 0) {return fract<T>(-1, -1);}
 				_deno = _numer;
 				return fract<T>(_numer, _deno);
 			}
