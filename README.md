@@ -13,14 +13,13 @@ I am **BangGaming8826**, a 5th-grade student from Vietnam 🇻🇳. I am a self-
 
 ## ⚚ Tech Stack
 * **Languages:** C / C++ 
-* **Editor:** NeoVim (because real developers use NeoVim!)
+* **Editor:** NeoVim (on Android)
 * **Target:** Servers, Supercomputers, Users, . . . 
 
 ## ✓ License
 This project is licensed under the GNU General Public License v2.0 - see the [LICENSE](LICENSE) file for details.
 
----
-*Developed by a brave 5th grader.* °*°
+---*---*---*---°---°---°---
 
 # . . . thank you for using Mini-UIA! ^^;
 # . . . everyone can help me; 
