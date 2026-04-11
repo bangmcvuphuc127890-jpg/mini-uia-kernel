@@ -1,4 +1,4 @@
-# Meow! Mini-UIA (Kernel)
+# 🐱  Meow! Mini-UIA (Kernel)
 
 Welcome to **Mini-UIA**, a free and independent operating system kernel built from scratch with passion and dedication.
 
